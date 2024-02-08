@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Syafrinadyy&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
-- 🌱 I’m currently learning **Digital Marketing, Data Science, Graphic Designer**
+- 🌱 I’m currently learning **Digital Marketing, Data Science, Graphic Designer, Copywriter**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1Am_poEHPHmj955DCuPLrh9qfFh7eVr0e/view?usp=drive_link](https://drive.google.com/file/d/1Am_poEHPHmj955DCuPLrh9qfFh7eVr0e/view?usp=drive_link)
 
