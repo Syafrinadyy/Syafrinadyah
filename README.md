@@ -1,5 +1,7 @@
 <h1 align="center">Hi There 👋, I'm Syafrina Dyah Kusuma Wardani</h1>
-<h3 align="center">A Fresh Graduate of Information Systems major at UIN Sunan Ampel Surabaya.</h3>
+<h3 align="center">A Fresh Graduate of Information Systems major at UIN Sunan Ampel Surabaya. completed BNSP database administrator certification training in 2021. Fresh graduates who have interest in design, data science, project management. Experienced as Customer Service, Copywriting, UI Design, Education Tutor. Have a commitment in improving creativity, communicative and innovative, able to solve problems with effective solutions. Improve skills and knowledge to develop new ideas.</h3>
+
+
 
 - 🌱 I’m currently learning **Digital Marketing, Data Science, Graphic Designer**
 
