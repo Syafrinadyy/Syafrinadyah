@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Digital Marketing, Data Science, Graphic Designer, Copywriter**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1Am_poEHPHmj955DCuPLrh9qfFh7eVr0e/view?usp=drive_link](https://drive.google.com/file/d/1Am_poEHPHmj955DCuPLrh9qfFh7eVr0e/view?usp=drive_link)
+- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1Am_poEHPHmj955DCuPLrh9qfFh7eVr0e/view?usp=drive_link]()
 
 - 📫 How to reach me **syafrina.dyahkw@gmail.com**
 
