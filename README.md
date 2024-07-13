@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Digital Marketing, Data Science, Graphic Designer, Copywriter**
 
-- 👨‍💻 All of my projects are available at (https://s.id/portofolio-syafrina)
+- 👨‍💻 All of my projects are available at (https://s.id/PortfolioSyafrinadyah)
 
 - 📫 How to reach me **syafrina.dyahkw@gmail.com**
 
